@@ -1,0 +1,47 @@
+.container {
+    background-color: #4c4c4c;
+    width: 55%;
+    margin: 50px auto; 
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #ececec;
+}
+
+body {
+    background-color: #2f2f2f;
+    margin-top: 35px;
+    margin-bottom: 35px;
+
+}
+
+
+.info {
+    text-align: center;
+    color: #c5c5c5;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 19px;
+    line-height: 35px;
+}
+
+
+.links {
+    color: #00bfff;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+
+#selectBox{
+    width: 30%;
+    height: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.bttn{
+    width: 15%;
+    height: auto;
+}
